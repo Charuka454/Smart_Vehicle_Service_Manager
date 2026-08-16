@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175811850724",
+    "project_id": "smartvehicleservice-9ec0e",
+    "storage_bucket": "smartvehicleservice-9ec0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175811850724:android:cdbd817faf4ce664d997f1",
+        "android_client_info": {
+          "package_name": "com.example.smartvehicaleservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpy-mj_OUJsYszpIWvRyiaS43jQI9ZWL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175811850724:android:0dbf19709b937b7ed997f1",
+        "android_client_info": {
+          "package_name": "com.example.smartvehicleservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpy-mj_OUJsYszpIWvRyiaS43jQI9ZWL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <!-- Modern palette: deep slate + electric teal accent, built for a clean business-tool feel -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_container">#E0E7FF</color>
+    <color name="accent">#06B6D4</color>
+    <color name="accent_container">#CFFAFE</color>
+
+    <color name="background">#F5F6FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#F1F3F9</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="text_dark">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="divider">#E5E7EB</color>
+
+    <color name="success">#16A34A</color>
+    <color name="success_container">#DCFCE7</color>
+    <color name="warning">#D97706</color>
+    <color name="warning_container">#FEF3C7</color>
+    <color name="danger">#DC2626</color>
+    <color name="danger_container">#FEE2E2</color>
+</resources>

@@ -1,0 +1,5 @@
+{
+  "_comment": "This is a PLACEHOLDER. Download your real google-services.json from the Firebase Console (Project Settings > Your apps > Android app) and replace this file, renaming it to exactly 'google-services.json' inside the app/ folder.",
+  "project_info": {},
+  "client": []
+}
